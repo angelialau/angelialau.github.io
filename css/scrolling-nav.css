@@ -10,3 +10,14 @@ header {
 section {
   padding: 75px 0 25px;
 }
+
+.jupyter-input {
+  color: #303F9F;
+  white-space: nowrap;
+  
+}
+
+.jupyter-output {
+  color: #D84315;
+  white-space: nowrap;
+}
